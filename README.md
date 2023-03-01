@@ -1,1 +1,2 @@
 # ViTLungCancer
+*jupyter notebook only!!
